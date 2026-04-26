@@ -1,0 +1,4 @@
+﻿  test03.cpp
+E:\C++实验\test03\test03.cpp(1147,37): warning C4018: “>”: 有符号/无符号不匹配
+E:\C++实验\test03\test03.cpp(1152,37): warning C4018: “>”: 有符号/无符号不匹配
+  test03.vcxproj -> E:\C++实验\test03\x64\Debug\test03.exe
